@@ -155,4 +155,5 @@ The app integrates a **predictive model** (such as Linear Regression), trained o
   * `Seating.Capacity`
   * `Type` (optional for boxplot)
 
+<img width="889" alt="Screenshot 2025-05-23 at 3 12 55 PM" src="https://github.com/user-attachments/assets/aff3fdca-ed7a-4bb6-82eb-af1d9de2065c" />
 
