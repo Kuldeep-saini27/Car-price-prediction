@@ -154,6 +154,8 @@ The app integrates a **predictive model** (such as Linear Regression), trained o
   * `Transmission`
   * `Seating.Capacity`
   * `Type` (optional for boxplot)
+DASHBOARD
+![WhatsApp Image 2025-05-26 at 18 09 13](https://github.com/user-attachments/assets/26816d1f-03d8-48ec-8198-71becf8c9738)
 
  <img width="640" alt="image" src="https://github.com/user-attachments/assets/cfd8881c-4b0b-46d5-bbc3-5cace899690b" />
 
